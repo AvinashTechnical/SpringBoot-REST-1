@@ -16,7 +16,7 @@ public class HelthCheck {
       //  Method...
 for(int i=0;i<=5;i++)
 {
-    System.out.println(Welcome);
+    System.out.println("Welcome");
 }
         return "Hello this is only health checking perpous";
 
