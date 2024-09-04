@@ -12,7 +12,7 @@ public class HelthCheck {
     public String say()
     {
         System.out.println("This is only local changes in this section");
-        System.out.println("This is only local changes in this section");
+        System.out.println("Via avinash gupta checking the code");
 
 
         return "Hello this is only health checking perpous";
