@@ -14,7 +14,10 @@ public class HelthCheck {
         System.out.println("This is only local changes in this section");
         System.out.println("This is only local changes in this section");
       //  Method...
-
+for(int i=0;i<=5;i++)
+{
+    System.out.println(Welcome);
+}
         return "Hello this is only health checking perpous";
 
     }
